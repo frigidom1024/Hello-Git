@@ -6,6 +6,7 @@
       {
         "id": "cec1109d0bd6ed64",
         "type": "tabs",
+        "dimension": 85.04398826979472,
         "children": [
           {
             "id": "3b8b5a1d73f83ee9",
@@ -13,11 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git基础/README.md",
+                "file": "markdonw/数学公式书写.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "e8bd46c60a44e314"
+          }
+        ]
+      },
+      {
+        "id": "e3ce32158bca47cd",
+        "type": "tabs",
+        "dimension": 14.95601173020528,
+        "children": [
+          {
+            "id": "b5be1dc20c0e4091",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "markdonw/数学公式书写.md"
+              }
+            },
+            "group": "e8bd46c60a44e314"
           }
         ]
       }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git基础/README.md",
+                "file": "markdonw/数学公式书写.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git基础/README.md",
+                "file": "markdonw/数学公式书写.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git基础/README.md"
+                "file": "markdonw/数学公式书写.md"
               }
             }
           }
@@ -146,29 +166,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c6caf1a01c3c14f7",
+  "active": "3b8b5a1d73f83ee9",
   "lastOpenFiles": [
-    "git基础/远程仓库.png",
+    "markdonw/实列和基本用法.md",
     "git基础/README.md",
-    "git基础/个人配置.png",
     "编程语言/语言编译.md",
-    "Pasted image 20240915185201.png",
+    "编程语言/a.exe",
+    "编程语言/a.o",
+    "编程语言/a.s",
+    "编程语言/a.c",
+    "计算机网络/计算机网络.md",
+    "数据结构与算法/硬币/out/production/硬币/Coin.class",
+    "数据结构与算法/硬币/Coin.java~",
+    "数据结构与算法/硬币/out/production/硬币",
+    "数据结构与算法/硬币/out/production",
+    "数据结构与算法/硬币/out",
+    "数据结构与算法/硬币/Coin.java",
+    "resouce'/Pasted image 20240916084945.png",
+    "git基础/远程仓库.png",
+    "git基础/个人配置.png",
+    "resouce'/Pasted image 20240915185201.png",
     "markdonw/markdow与html.md",
-    "编程语言/新建 文本文档.txt",
     "markdonw/markdown转html/实列和基本用法.md",
-    "markdonw/markdown转html/Test01.html",
-    "markdonw/markdown转html/新建 文本文档.txt",
-    "markdonw/markdown转html/mtoh/out/production/mtoh/MarkdownToHtmlConverter.class",
     "markdonw/数学公式书写.md",
-    "markdonw/markdown转html/实例和基本方法.html",
-    "markdonw/markdown转html/mtoh.html",
-    "markdonw/markdown转html/MarkdownToHtmlConverter.class",
-    "markdonw/markdown转html/MarkdownToHtmlConverter.java",
     "markdonw/README(rewrite).md",
     "README.md",
-    "markdonw/实列和基本用法.md",
-    "markdonw/markdown转html/mtoh/out/production/mtoh/Main.class",
-    "markdonw/markdown转html/mtoh/out/production/mtoh",
     "未命名.md",
     "README(rewrite).md"
   ]
